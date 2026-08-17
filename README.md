@@ -1,6 +1,3 @@
-[UofA SimRunner Getting Started.docx.md](https://github.com/user-attachments/files/31151441/UofA.SimRunner.Getting.Started.docx.md)
-
-
 **Background:**
 
 Welcome to the UofA SimRunner tutorial documentation. This guide is intended to outline the capabilities of the UofA SimRunner package and describe each feature’s functionalities. This coding package is preloaded with complementary building models and weather data from external sources, and is in no way responsible for any of these files. These are simply included as a convenience to the user. Please note that this coding package is still under development, and the latest version is available from GitHub under the following link: (https://github.com/ajordan2-sudo/UofASimRunner). If you encounter any issues using the package, please reach out directory to [ajordan2@ualberta.ca](mailto:ajordan2@ualberta.ca). 
