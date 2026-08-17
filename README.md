@@ -17,9 +17,9 @@ Before running simulations, please ensure you have the following software and py
 
 Included with the downloaded UofA SimRunner package are 17 IDF files representative of different building archetypes and data for 13 weather locations corresponding to different ASHRAE climate zones. 
 
-The 17 IDF files included represent several U.S. Department of Energy reference archetypes extracted from the results of Building Technology Assessment Platform (BTAP) simulations, which is an open-source building energy simulation tool developed by Natural Resources Canada. The IDF files have been adjusted such that they work with the SimRunner package, and are no longer compatible with the original tool. For more information regarding the complementary IDF input files, please look into BTAP’s resources page.
+The 17 IDF files included represent several U.S. Department of Energy reference archetypes [1] extracted from the results of Building Technology Assessment Platform (BTAP) [2] simulations, which is an open-source building energy simulation tool developed by Natural Resources Canada. The IDF files have been adjusted such that they work with the SimRunner package, and are no longer compatible with the original tool. For more information regarding the complementary IDF input files, please look into BTAP’s resources page.
 
-The weather data included is taken directory from the EnergyPlus website for 13 cities of interest, each corresponding to a unique ASHRAE climate zone as depicted below in Table 1\. Please note that the current SimRunner version only works with the included complementary files. You may not add your own .IDF / .epw files for simulations. If you would like to simulation climate conditions for a different city, please consider using the corresponding city situated in the most similar ASHRAE climate zone. 
+The weather data included is taken directory from the EnergyPlus website for 13 cities of interest [3], each corresponding to a unique ASHRAE climate zone as depicted below in Table 1\. Please note that the current SimRunner version only works with the included complementary files. You may not add your own .IDF / .epw files for simulations. If you would like to simulation climate conditions for a different city, please consider using the corresponding city situated in the most similar ASHRAE climate zone. 
 
 **Table 1\.** ASHRAE Climate Zones on Complementary Weather Data
 
@@ -55,11 +55,11 @@ Thank you for choosing to use the UofA SimRunner coding package.
 
 **References:**
 
-CanmetENERGY, Building Technology Assessment Platform (BTAP), version 2.0. \[Computer Software\]. 2026\. Available: https://github.com/canmet-energy/btap\_cli.
+[1] U.S. Department of Energy, "Commercial Reference Buildings," U.S. Department of Energy. \[Online\]. Available: https://www.energy.gov/eere/buildings/commercial-reference-buildings
 
-U.S. Department of Energy, "*EnergyPlus Weather Database*," U.S. Department of Energy. \[Online\]. Available: energyplus.net
+[2] CanmetENERGY, Building Technology Assessment Platform (BTAP), version 2.0. \[Computer Software\]. 2026\. Available: https://github.com/canmet-energy/btap\_cli.
 
-U.S. Department of Energy, "Commercial Reference Buildings," U.S. Department of Energy. \[Online\]. Available: https://www.energy.gov/eere/buildings/commercial-reference-buildings
+[3] U.S. Department of Energy, "*EnergyPlus Weather Database*," U.S. Department of Energy. \[Online\]. Available: energyplus.net
 
 *Disclaimer*
 
