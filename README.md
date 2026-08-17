@@ -52,7 +52,7 @@ Thank you for choosing to use the UofA SimRunner coding package.
 
 **References:**
 
-[1] U.S. Department of Energy, "Commercial Reference Buildings," U.S. Department of Energy. \[Online\]. Available: https://www.energy.gov/eere/buildings/commercial-reference-buildings
+[1] U.S. Department of Energy, "Prototype Building Models," U.S. Department of Energy. \[Online\]. Available: https://www.energycodes.gov/prototype-building-models
 
 [2] CanmetENERGY, Building Technology Assessment Platform (BTAP), version 2.0. \[Computer Software\]. 2026\. Available: https://github.com/canmet-energy/btap\_cli.
 
