@@ -60,4 +60,4 @@ Thank you for choosing to use the UofA SimRunner coding package.
 
 *Disclaimer*
 
-*The authors and University of Alberta are not liable for any issues that arise as the result of the use of this software. Use at your own risk.*
+*The authors and University of Alberta are not liable for any issues that arise as the result of the use of this software or 3rd party files. Use at your own risk.*
