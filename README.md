@@ -59,6 +59,8 @@ CanmetENERGY, Building Technology Assessment Platform (BTAP), version 2.0. \[Com
 
 U.S. Department of Energy, "*EnergyPlus Weather Database*," U.S. Department of Energy. \[Online\]. Available: energyplus.net
 
+U.S. Department of Energy, "Commercial Reference Buildings," U.S. Department of Energy. \[Online\]. Available: https://www.energy.gov/cmei/buildings/commercial-reference-building
+
 *Disclaimer*
 
 *The authors and University of Alberta are not liable for any issues that arise as the result of the use of this software. Use at your own risk.*
