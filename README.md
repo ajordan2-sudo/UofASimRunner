@@ -40,7 +40,7 @@ The weather data included is taken directory from the EnergyPlus website for 13 
 
 **Software Features:**
 
-Upon launching UofA SimRunner.exe or running gui\_runner.py using python, you will be greeted with the window shown in Figure 1\. The GUI is split into **four** main categories (Environment Setup, Simulation Parameters, HVAC Component Generation, and Launch Controls).
+Upon launching UofA SimRunner.exe or running gui\_runner.py using python, you will be greeted with the window with a variety of options. The GUI is split into **four** main categories (Environment Setup, Simulation Parameters, HVAC Component Generation, and Launch Controls).
 
 Please follow the following instructions for running each simulation, which follows the order of the main four categories:
 
